@@ -1,3 +1,3 @@
-# Realm-Bot
+# Fairplay API
 
-coming soon
+- Fairplay API Projects -
