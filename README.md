@@ -1,5 +1,5 @@
 # Fairplay API
 
-- Fairplay API Projects 
+**Fairplay API Projects**
 
 - Fairplay opensource
